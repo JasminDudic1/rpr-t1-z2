@@ -1,10 +1,8 @@
 package ba.unsa.etf.rpr;
 
-import org.w3c.dom.ls.LSInput;
 
-import java.security.spec.RSAOtherPrimeInfo;
+
 import java.util.Scanner;
-
 
 public class Main {
 
