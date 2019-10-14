@@ -20,12 +20,14 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("Unesite broj n");
+
+        System.out.println( "Unesite broj n" );
         int n=0;
         Scanner sc=new Scanner(System.in);
         n=sc.nextInt();
+
         for (int i = 0; i <n ; i++) {
-            System.out.println(sumaCifara(i));
+            System.out.println( sumaCifara(i) );
 
         }
 
